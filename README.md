@@ -8,7 +8,6 @@
 
 PR-stats is an open-source python library that brings different functions to bring stats about pull requests.
 
-
 ## Author: Kazi Amit Hasan
 
 
@@ -23,7 +22,7 @@ Data Inspector brings 15++ essential exploratory data analysis, data cleaning au
 Package available at https://pypi.org/project/pr-stats/
 
 
-### Available automation:
+### How to use:
 
 All stats about pull requests: ``` get_pull_requests("ownername", "reponame", "your_token") ```
 

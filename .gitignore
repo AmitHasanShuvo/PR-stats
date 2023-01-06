@@ -1,6 +1,9 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
+pr_stats.egg-info/
+build/
+dist/
 [Oo]bj/
 [Bb]in/
 
