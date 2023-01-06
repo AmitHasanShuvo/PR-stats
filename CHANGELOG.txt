@@ -4,3 +4,7 @@ Change Log
 0.0.1 (6/1/2023)
 ------------------
 - First Release
+
+0.0.2 (6/1/2023)
+------------------
+- instructions added

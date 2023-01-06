@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name='pr_stats',
-    version='0.0.1',
+    version='0.0.2',
     author="Kazi Amit Hasan",
     author_email="kaziamithasan89@gmail.com",
     description="This module brings different stats about pull requests using GitHub API.",

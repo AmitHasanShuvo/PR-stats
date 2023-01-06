@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: pr-stats
+Version: 0.0.2
+Summary: This module brings different stats about pull requests using GitHub API.
+Home-page: https://github.com/AmitHasanShuvo/PR-stats
+Author: Kazi Amit Hasan
+Author-email: kaziamithasan89@gmail.com
+Keywords: stats,pull requests,github
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
 
 # PR-stats
 ![Author](https://img.shields.io/badge/author-AmitHasanShuvo-orange)
@@ -47,3 +59,15 @@ All stats about pull requests: ``` get_pull_requests("ownername", "reponame", "y
 Any contribution would be highly appreciated. Kindly go through the guidelines for contributing in github.
 
 
+
+
+Change Log
+==========
+
+0.0.1 (6/1/2023)
+------------------
+- First Release
+
+0.0.2 (6/1/2023)
+------------------
+- instructions added
