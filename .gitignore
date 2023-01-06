@@ -8,10 +8,12 @@ bin-release/
 .settings/
 .build/
 .dist/
-.data_inspector.egg-info/
+.pr_stats.egg-info/
 .idea/
 .csv
 .ipynb/
+.dist/
+.build/lib/PR stats/
 
 
 
