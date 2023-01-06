@@ -1,0 +1,40 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+.build/
+.dist/
+.data_inspector.egg-info/
+.idea/
+.csv
+.ipynb/
+
+
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.pyc
+*.pyo
+*.zip
+*.tar.gz
+*.sqlite3
+*.csv
+*.sav
+*.exe
+*.json
+*.DS_Store
+*.pdf
+*.xlsx
+*ipynb
+
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
