@@ -1,5 +1,5 @@
 
-# PR-stats
+# PR Stats
 ![Author](https://img.shields.io/badge/author-AmitHasanShuvo-orange)
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AmitHasanShuvo/data-inspector/blob/main/LICENCE.txt)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AmitHasanShuvo/PR-stats)
